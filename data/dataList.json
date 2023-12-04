@@ -1,0 +1,42 @@
+{
+    "departments": [
+        {
+            "name": "Phòng A",
+            "employees": [
+                {
+                    "name": "Nguyễn Văn A",
+                    "age": 30,
+                    "gender": "Nam",
+                    "phone": "0123456789",
+                    "image": "https://reactnative.dev/img/tiny_logo.png"
+                },
+                {
+                    "name": "Trần Thị B",
+                    "age": 28,
+                    "gender": "Nữ",
+                    "phone": "0987654321",
+                    "image": "https://reactnative.dev/img/tiny_logo.png"
+                }
+            ]
+        },
+        {
+            "name": "Phòng B",
+            "employees": [
+                {
+                    "name": "Lê Văn C",
+                    "age": 32,
+                    "gender": "Nam",
+                    "phone": "0365478962",
+                    "image": "https://reactnative.dev/img/tiny_logo.png"
+                },
+                {
+                    "name": "Hoàng Thị D",
+                    "age": 27,
+                    "gender": "Nữ",
+                    "phone": "0912345678",
+                    "image": "https://reactnative.dev/img/tiny_logo.png"
+                }
+            ]
+        }
+    ]
+}
